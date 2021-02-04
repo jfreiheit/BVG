@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BVG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BVG.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
